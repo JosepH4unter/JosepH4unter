@@ -13,7 +13,7 @@
   <img align="center" alt="Machado" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="Machado" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="Machado" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"">
-  <img align="right" alt="Grogu" height="140" style="border-radius:100px;" src="https://c.tenor.com/jZTaKGhWwfYAAAAd/grogu.gif">
+  <img align="right" alt="Grogu" height="140" style="border-radius:100px;" src="![image](https://user-images.githubusercontent.com/61758267/153903396-a0d84f09-b49c-4577-8bb8-7d03537ac1e1.png)">
 </div>
 
 ##
