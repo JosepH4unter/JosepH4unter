@@ -1,6 +1,6 @@
 ### Hello there, me chamo Jose Romario Machado 👋
 
-- 🌱 Atualmente eu esutou estudando JavaScript, ReactNative,React e NodeJS
+- 🌱 Atualmente eu estou estudando, PHP, MYSQL e BootStrap5
 <div align="center">
   <a href="https://github.com/JosepH4unter">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=JosepH4unter&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
